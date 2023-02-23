@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karoljohnston
-- 👀 I’m interested in Data Analytics
+- 👀 Call me boring but I’m interested in data
 - 🌱 I’m a IBM Data Analytics certificate & Google Data Analytics Professional Certificate holder
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 💞️ I’m looking to improve my skills in data cleaning, interpreting data and to analyze results using statistical techniques
 
 
 <!---
